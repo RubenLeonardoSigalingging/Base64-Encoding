@@ -1,0 +1,2 @@
+PlainText: Codemaker
+Base64 Encoding Result: Q29kZW1ha2Vy
